@@ -30,7 +30,7 @@ public class Primeiro{
     }
     
     private static String obterPerfilPorIdade(){
-        return idade < 50 ? "iniciante" : "veterano";
+        return idade < 50 ? "Iniciante" : "Veterano";
     }
     
     private static String obterPerfilPorSalario(){
